@@ -6,8 +6,19 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker" : "spongebob",
+			"dialog" : "GARY THERE'S A BOMB STRAPPED TO MY CHEST GARY",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "minerva",
+			"dialog" : "screw you homer",
+			"newSpeaker" : "true"
+		},
+		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
@@ -24,6 +35,11 @@
 		{	
 			"speaker" : "homer",
 			"dialog" : "Tell me, too, about all these things, O daughter of Jove, from whatsoever source you may know them."
+		},
+		{
+			"speaker" : "spongebob",
+			"dialog" : "boom waddup sponge bob here raaahhhhhhhhh",
+			"newSpeaker" : "true"
 		}
 	],
 	[
